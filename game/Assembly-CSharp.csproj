@@ -96,6 +96,7 @@
      <Compile Include="Assets\RayCastEvent.cs" />
      <Compile Include="Assets\Reticle.cs" />
      <Compile Include="Assets\Swimming.cs" />
+     <Compile Include="Assets\UnderWater.cs" />
      <Compile Include="Assets\VRDeviceManager.cs" />
      <Compile Include="Assets\VREyeRaycaster.cs" />
      <Compile Include="Assets\VRFPSCounter.cs" />

@@ -36,7 +36,7 @@ public class Swimming : MonoBehaviour {
 
 	void OnTriggerEnter(Collider col) {
 
-		if (col.CompareTag("Wall")) {
+		if (col.CompareTag("Wall")||col.CompareTag("Mina")) {
 			SceneManager.LoadScene ("gra");
 		}
 		if (col.CompareTag ("Siatka")) {
