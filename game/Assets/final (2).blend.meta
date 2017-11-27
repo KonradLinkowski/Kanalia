@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 13acd1b3cf188ac46af065dcefd62229
+timeCreated: 1511686114
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Drabina
+    100002: //RootNode
+    100004: Kolanko_L
+    100006: Kolanko_T
+    100008: Kolanko_X
+    100010: Laczenie
+    100012: Laczenie_kraty
+    100014: Mina
+    100016: Mina_001
+    100018: Mina_002
+    100020: Mina_003
+    100022: Mina_004
+    100024: Mina_005
+    100026: Mina_006
+    100028: Siatka
+    100030: Tunel
+    400000: Drabina
+    400002: //RootNode
+    400004: Kolanko_L
+    400006: Kolanko_T
+    400008: Kolanko_X
+    400010: Laczenie
+    400012: Laczenie_kraty
+    400014: Mina
+    400016: Mina_001
+    400018: Mina_002
+    400020: Mina_003
+    400022: Mina_004
+    400024: Mina_005
+    400026: Mina_006
+    400028: Siatka
+    400030: Tunel
+    2300000: Drabina
+    2300002: Kolanko_L
+    2300004: Kolanko_T
+    2300006: Kolanko_X
+    2300008: Laczenie
+    2300010: Laczenie_kraty
+    2300012: Mina
+    2300014: Mina_001
+    2300016: Mina_002
+    2300018: Mina_003
+    2300020: Mina_004
+    2300022: Mina_005
+    2300024: Mina_006
+    2300026: Siatka
+    2300028: Tunel
+    3300000: Drabina
+    3300002: Kolanko_L
+    3300004: Kolanko_T
+    3300006: Kolanko_X
+    3300008: Laczenie
+    3300010: Laczenie_kraty
+    3300012: Mina
+    3300014: Mina_001
+    3300016: Mina_002
+    3300018: Mina_003
+    3300020: Mina_004
+    3300022: Mina_005
+    3300024: Mina_006
+    3300026: Siatka
+    3300028: Tunel
+    4300000: Drabina
+    4300002: Mina
+    4300004: Mina_006
+    4300006: Mina_005
+    4300008: Mina_004
+    4300010: Mina_003
+    4300012: Mina_002
+    4300014: Mina_001
+    4300016: Siatka
+    4300018: Kolanko_X
+    4300020: Laczenie_kraty
+    4300022: Laczenie
+    4300024: Kolanko_T
+    4300026: Kolanko_L
+    4300028: Tunel
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bomba
+    second: {fileID: 2100000, guid: 81633ed5222955440862aa9386c32c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kraty
+    second: {fileID: 2100000, guid: ebdae15c350babe4bb28009848aada04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laczenie
+    second: {fileID: 2100000, guid: c211b16d50cb8394e9a33dfa4d728ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reklamowka
+    second: {fileID: 2100000, guid: 8706aa9e542cb8544a7fa0cd0c3f2d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rura
+    second: {fileID: 2100000, guid: a7905467fe66c024a813d7e7f3edaede, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

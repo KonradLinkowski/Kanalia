@@ -51,6 +51,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Folder\Monolog.cs" />
+     <Compile Include="Assets\Folder\RayCastEvent.cs" />
+     <Compile Include="Assets\Folder\Reticle.cs" />
+     <Compile Include="Assets\Folder\Swimming.cs" />
+     <Compile Include="Assets\Folder\VRDeviceManager.cs" />
+     <Compile Include="Assets\Folder\VREyeRaycaster.cs" />
+     <Compile Include="Assets\Folder\VRFPSCounter.cs" />
+     <Compile Include="Assets\Folder\VRInput.cs" />
+     <Compile Include="Assets\Folder\VRInteractiveItem.cs" />
+     <Compile Include="Assets\Folder\VRTrackingReset.cs" />
+     <Compile Include="Assets\LoadMap.cs" />
      <Compile Include="Assets\OVR\Scripts\Composition\OVRCameraComposition.cs" />
      <Compile Include="Assets\OVR\Scripts\Composition\OVRComposition.cs" />
      <Compile Include="Assets\OVR\Scripts\Composition\OVRCompositionUtil.cs" />
@@ -93,15 +104,7 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRSceneSampleController.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRWaitCursor.cs" />
-     <Compile Include="Assets\RayCastEvent.cs" />
-     <Compile Include="Assets\Reticle.cs" />
-     <Compile Include="Assets\Swimming.cs" />
-     <Compile Include="Assets\VRDeviceManager.cs" />
-     <Compile Include="Assets\VREyeRaycaster.cs" />
-     <Compile Include="Assets\VRFPSCounter.cs" />
-     <Compile Include="Assets\VRInput.cs" />
-     <Compile Include="Assets\VRInteractiveItem.cs" />
-     <Compile Include="Assets\VRTrackingReset.cs" />
+     <Compile Include="Assets\Test.cs" />
      <None Include="Assets\OVR\Resources\OVRMRUnlitTransparent.shader" />
      <None Include="Assets\OVR\Resources\OVRMRChromaKey.cginc" />
      <None Include="Assets\OVR\Editor\AndroidManifest.OVRSubmission.xml" />
